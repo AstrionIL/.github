@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="160" viewBox="0 0 1200 160" role="img" aria-label="⚠️ אזהרה">
+  <defs>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.25"/>
+    </filter>
+  </defs>
+
+  <rect x="12" y="12" width="1176" height="136" rx="18" fill="#0d1117" stroke="#30363d" filter="url(#shadow)"/>
+  <rect x="24" y="28" width="10" height="104" rx="5" fill="#d29922"/>
+
+  <!-- Title (Hebrew, centered) -->
+  <text x="612" y="66" text-anchor="middle"
+        font-family="Inter, Arial, Helvetica, sans-serif" font-size="28"
+        fill="#e6edf3" font-weight="800"
+        direction="rtl" unicode-bidi="plaintext">⚠️ אזהרה</text>
+
+  <!-- Body (centered; use plaintext so mixed LTR runs render correctly) -->
+  <text x="612" y="108" text-anchor="middle"
+        font-family="Inter, Arial, Helvetica, sans-serif" font-size="20"
+        fill="#c9d1d9"
+        direction="rtl" unicode-bidi="plaintext"><tspan>השרת נמצא כרגע בתהליך </tspan><tspan direction="ltr" unicode-bidi="embed">Development / Setup</tspan><tspan>, ולכן ייתכנו זמני אי-זמינות.</tspan></text>
+</svg>

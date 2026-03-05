@@ -50,10 +50,10 @@ AstrionIL היא קהילת Minecraft ישראלית שמטרתה ליצור ח�
 <p align="center"><b>דיסקורד</b></p>
 
 <p align="center">
- <a href="https://discord.astrion-il.net/">
-    <img src="https://img.shields.io/badge/Discord-הצטרף%20לשרת-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  <a href="https://discord.astrion-il.net/">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-</p>
+  </p>
 
 ---
 

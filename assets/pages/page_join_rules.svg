@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1020" viewBox="0 0 1600 1020" role="img" aria-label="Join and Rules">
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+<rect x="24" y="24" width="1552" height="972" rx="26" fill="url(#bg)" filter="url(#softShadow)"/>
+<rect x="54" y="64" width="12" height="932" rx="6" fill="url(#accent)"/>
+<text x="92" y="88" font-family="Arial, Helvetica, sans-serif" font-size="46" fill="#e6edf3" font-weight="800">Join &amp; Rules</text>
+<text x="800" y="130" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#c9d1d9">‏AstrionIL — הצטרפות וכללים‏</text>
+<rect x="92" y="178" width="1420" height="222" rx="18" fill="#0b1220" opacity="0.65" stroke="#30363d"/>
+<rect x="92" y="178" width="8" height="222" rx="4" fill="#3fb950"/>
+<text x="114" y="216" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#e6edf3" font-weight="800">🧩 How to Join</text>
+<text x="800" y="244" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏איך מצטרפים‏</text>
+<text x="800" y="280" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏1) פתחו ‎Minecraft‎ ‎Java Edition‎‏</text>
+<text x="800" y="310" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏2) Multiplayer → Add Server‏</text>
+<text x="800" y="340" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏3) Server Address: Astrion-IL.Net‏</text>
+<text x="800" y="370" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏4) התחברו והתחילו לשחק‏</text>
+<rect x="92" y="418" width="1420" height="162" rx="18" fill="#0b1220" opacity="0.65" stroke="#30363d"/>
+<rect x="92" y="418" width="8" height="162" rx="4" fill="#d29922"/>
+<text x="114" y="456" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#e6edf3" font-weight="800">⚠️ Maintenance / Setup</text>
+<text x="800" y="484" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏תחזוקה / הקמה‏</text>
+<text x="800" y="520" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏השרת נמצא בתהליך ‎Development / Setup‎. ייתכנו זמני אי־זמינות ושינויים.‏</text>
+<text x="800" y="550" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏יתכנו איפוסים נקודתיים לצורך בדיקות ושיפורים (במידת הצורך).‏</text>
+<rect x="92" y="598" width="1420" height="192" rx="18" fill="#0b1220" opacity="0.65" stroke="#30363d"/>
+<rect x="92" y="598" width="8" height="192" rx="4" fill="#f85149"/>
+<text x="114" y="636" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#e6edf3" font-weight="800">📜 Rules (Short)</text>
+<text x="800" y="664" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏כללים (תקציר)‏</text>
+<text x="800" y="700" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏כבדו שחקנים אחרים • אין צ׳יטים/האקים • אין ספאם/הטרדות‏</text>
+<text x="800" y="730" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏אין ניצול באגים • הימנעו מגריפינג • הקשיבו לצוות‏</text>
+<text x="800" y="760" text-anchor="middle" xml:space="preserve" font-family="Arial, Helvetica, sans-serif" font-size="20" fill="#c9d1d9">‏הפרות עלולות לגרור אזהרה/הרחקה‏</text>
+</svg>

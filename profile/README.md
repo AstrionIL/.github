@@ -5,12 +5,19 @@
     <img src="./assets/header.svg" alt="AstrionIL • קהילת מיינקראפט ישראלית" width="100%">
   </a>
 </p>
-
 <p align="center">
   <a href="https://discord.astrion-il.net/">
-    <img src="https://img.shields.io/badge/Discord-הצטרף%20לשרת-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+    <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
-<img src="https://img.shields.io/badge/Minecraft_Server-Astrion--IL.Net-3fb950?style=for-the-badge" alt="Minecraft Server">
+  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Status&color=3fb950&url=https%3A%2F%2Fapi.mcsrvstat.us%2F3%2FAstrion-IL.Net&query=%24.online" alt="Server Status">
+  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Players&suffix=%20online&url=https%3A%2F%2Fapi.mcsrvstat.us%2F3%2FAstrion-IL.Net&query=%24.players.online" alt="Players Online">
+  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&label=Version&url=https%3A%2F%2Fapi.mcsrvstat.us%2F3%2FAstrion-IL.Net&query=%24.version" alt="Server Version">
 </p>
 
 ---
@@ -37,7 +44,9 @@ AstrionIL היא קהילת Minecraft ישראלית שמטרתה ליצור ח�
 <p align="center"><b>כתובת השרת</b></p>
 
 <p align="center"><code>Astrion-IL.Net</code></p>
-
+<p align="center">
+  <img src="https://api.mcsrvstat.us/icon/Astrion-IL.Net" alt="Server Icon" width="64" height="64">
+</p>
 <p align="center"><b>דיסקורד</b></p>
 
 <p align="center">

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-label="AstrionIL - header">
+
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="1" stop-color="#161b22"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="0" y1="0" y2="1">
+      <stop offset="0" stop-color="#2f81f7"/>
+      <stop offset="1" stop-color="#a371f7"/>
+    </linearGradient>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="10" stdDeviation="14" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect x="24" y="24" width="1552" height="372" rx="26" fill="url(#bg)" filter="url(#softShadow)"/>
+  <rect x="54" y="64" width="12" height="292" rx="6" fill="url(#accent)"/>
+
+  <text x="92" y="132" font-family="Arial, Helvetica, sans-serif" font-size="66" fill="#e6edf3" font-weight="800">AstrionIL</text>
+
+  <!-- Hebrew tagline centered safely -->
+  <text x="800" y="182" text-anchor="middle" xml:space="preserve"
+        font-family="Arial, Helvetica, sans-serif" font-size="26" fill="#c9d1d9">‏קהילת מיינקראפט ישראלית • מערכות ייחודיות • פיתוח מתמשך‏</text>
+
+  <text x="800" y="216" text-anchor="middle"
+        font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#8b949e">
+    Israeli Minecraft community server • Custom systems • Continuous development
+  </text>
+
+  <text x="92" y="266" font-family="Consolas, 'Courier New', monospace" font-size="22" fill="#e6edf3">
+    Server Address: Astrion-IL.Net
+  </text>
+
+  <rect x="92" y="292" width="360" height="46" rx="23" fill="#d29922" opacity="0.18"/>
+  <text x="114" y="323" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#e6edf3" font-weight="600">
+    Status: Development / Setup
+  </text>
+
+  <rect x="1036" y="286" width="494" height="56" rx="18" fill="#5865F2"/>
+  <text x="1283" y="323" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#ffffff" font-weight="800">
+    Join our Discord
+  </text>
+  <text x="1283" y="360" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#8b949e">
+    discord.astrion-il.net
+  </text>
+</svg>
